@@ -52,7 +52,7 @@ protected void onActivityResult(int requestCode, int resultCode, Intent data) {
     }
 }
 ```
-![alt text](https://cdn.zeplin.io/5ddb6714b21e4d8b53f8756e/screens/64346E2C-C926-4669-8444-8C8A7C1EEEE8.png)
+![alt text](https://github.com/rorpheeyah/image-resource/blob/main/creditcardscanner.png)
 
 ### License
 
